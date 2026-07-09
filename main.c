@@ -3,8 +3,10 @@
 
 int main(void){
 
-printf("clone valider cullsive"); 
 
+for(int i = 0; i < 3 ; i++){
+printf("hello cullsive le clonage est valider\n");
+}
 return 0; 
 
 }
